@@ -10,8 +10,12 @@ Key Technologies Used:
 
 
 packages used :
-  1. npm i express
-  2. npm i hbs
-  3. npm i mongoose
-  4. npm i nodemon  (npm install -g nodemon) to install globally 
+  1.  express
+  2.  hbs
+  3.  mongoose
+  4.  nodemon  (npm install -g nodemon) to install globally
+
+
+NOTE:
+extract the node_modules file and then run the server from the terminal ( nodemon src/index.js )
 
