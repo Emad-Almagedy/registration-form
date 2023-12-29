@@ -16,6 +16,6 @@ packages used :
   4.  nodemon  (npm install -g nodemon) to install globally
 
 
-NOTE:
+# NOTE:
 extract the node_modules file and then run the server from the terminal ( nodemon src/index.js )
 
